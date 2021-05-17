@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 .idea
+Pipfile
+Pipfile.lock
 .vscode
 __pycache__/
 *.py[cod]
