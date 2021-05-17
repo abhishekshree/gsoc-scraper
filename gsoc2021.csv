@@ -225,7 +225,7 @@ Tamara David,International Catrobat Association,Advancement through project merg
 Paulette Vazquez,Mayor's Office of New Urban Mechanics (City of Boston),Geospatial Tools for Post-Disaster Housing Analysis
 ApratimRanChak,Digital Impact Alliance (DIAL) at UN Foundation,Alexa Top Sites Captcha and Tor Block Monitoring
 Rachana Podaralla,Inkscape,On Canvas Marker Editing
-nickil21,Red Hen Lab,Detecting Joint Meaning Construal by Language and Gesture
+Nickil Maveli,Red Hen Lab,Detecting Joint Meaning Construal by Language and Gesture
 Veenit Kumar,OSGeo - Open Source Geospatial Foundation,Implement Edge Coloring Algorithm for pgRouting by the Boost Graph Library.
 Rishabh Sanjay,NumFOCUS,Adding New Plots to ArviZ
 Sarthak Saxena,Postman,API Conversion API
@@ -583,7 +583,7 @@ Rahul Babu Shrestha,Python Software Foundation,"Implementing locality sensitive 
 Rikito Taniguchi,Scala Center,Add synthetics and symbol information for semanticdb in Scala 3
 Yulia Kuzovkova,The Libreswan Project,Support for RFC 7670 (Generic Raw public key support)
 Somil Jain,Cuneiform Digital Library Initiative (CDLI),Design Challenge
-jmdu99,DBpedia,DBpedia Spotlight Dashboard: an integrated statistical information tool from the Wikipedia dumps and the DBpedia Extraction Framework artifacts
+José Manuel Díaz Urraco,DBpedia,DBpedia Spotlight Dashboard: an integrated statistical information tool from the Wikipedia dumps and the DBpedia Extraction Framework artifacts
 Nishit Patel,GNOME Foundation,Tracker-miners: File creation time
 Maija Utriainen,National Resource for Network Biology (NRNB),Implementing multiple clustering algorithms and dimensionality reduction techniques on clusterMaker2
 Devyansh Chawla,Wikimedia Foundation,Develop a UserScript/Gadget tutorial on MediaWiki.org similar to Wikipedia:The_Wikipedia_Adventure
@@ -858,6 +858,7 @@ Valentin Boettcher,KDE Community,KStars DSO Overhaul
 Naveen Sai,SymPy,Rational Solutions of Riccati ODEs
 Nolan Windham,Internet Archive,Open Book Genome Project
 Shiyu Liu,Android Graphics Tools Team,Diversity transformation class space and implement Coverage-guided mutation-based fuzzing for WebGPU
+leachim,The Julia Language,Improving Turing’s documentation and tutorials
 Niteesh Babu G S,QEMU,"Interactive, asynchronous QEMU Machine Protocol (QMP) text user interface (TUI)"
 Egor Zverev,MapAction,Extend Data Pipelines to cover more data products
 Yami Dancho,The R Project for Statistical Computing,GSoC 2021 Proposal Productionizing bddashboard
@@ -1236,7 +1237,7 @@ Rohit Verma,Xiph.Org Foundation,(Live) listener statistics for Icecast
 Khuda Dad Nomani,Postman,AsyncAPI duplications finder aka document optimizer
 Krishna Kariya,The LLVM Compiler Infrastructure,Fix Fundamental Issues in LLVM IR
 Vishal Mishra,Xiph.Org Foundation,Adding a return channel to Icecast server
-Peymaneh Nejad,Debian,Packaging Caddy
+peymaneh,Debian,Packaging Caddy
 Tushar Kumar-2,LibreOffice,Implement Interface for external data source import into Calc
 Aswin C,Rizin,Support for CPU and Platform Profiles
 Xiaoyu Qiu,syslog-ng,GSoC 2021 Proposal: Add regexp-parser() (Xiaoyu Qiu)
