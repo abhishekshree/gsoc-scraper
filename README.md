@@ -12,3 +12,5 @@ To run this locally, the steps are:
 
 ---
 [Link to the endpoint](https://summerofcode.withgoogle.com/api/program/current/project/?page=1&page_size=20)
+
+This took some time so let it run for about 5 minutes peacefully please.
